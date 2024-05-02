@@ -1,0 +1,99 @@
+&parallelization
+    n_procs_s = 2
+    n_procs_v = -1
+    n_procs_w = -16
+    n_procs_x = 1
+    n_procs_y = 1
+    min_npz = 4
+    n_procs_z = -4
+/
+
+&box
+    n_spec = 2
+    nx0 = 15
+    nky0 = 1
+    nz0 = 24
+    nv0 = 48
+    nw0 = 16
+    x0 = 0.75
+    kymin = 0.1      !scanlist: 18.571556136730113, 20.04436432372329, 77.18240160425856, 68.03974610764404, 47.29636641849867
+    n0_global = -1111
+    adapt_ly = .true.
+    lx = 125.628
+    lv = 3.0
+    lw = 9.0
+/
+
+&in_out
+    diagdir = '/scratch/project_FILL_IN/FILL_UID/AUGUQ/'
+    read_checkpoint = .false.
+    istep_field = 1000
+    istep_mom = 2000
+    istep_nrg = 10
+    istep_energy = 100
+    istep_vsp = 0
+    istep_schpt = 500
+/
+
+&general
+    nonlinear = .false.
+    calc_dt = .true.
+    dt_max = 0.0385
+    timelim = 86000
+    ntimesteps = 10000000
+    simtimelim = 10000
+    beta = 0.00054323796
+    debye2 = 0.0011889208
+    collision_op = 'landau'
+    coll = 0.0007544424
+    zeff = 1.6
+    hyp_z = -1
+    hyp_v = 0.0
+/
+
+&geometry
+    magn_geometry = 'miller'
+    trpeps = 0.25643
+    q0 = 2.2851
+    shat = 2.2142
+    amhd = 0.016535
+    drr = -0.14686
+    drz = -0.076232
+    kappa = 1.349
+    s_kappa = 0.23129
+    delta = 0.055595
+    s_delta = 0.14461
+    zeta = -0.012412
+    s_zeta = -0.063568
+    minor_r = 1
+    major_r = 3.1481
+    rhostar = -1
+/
+
+&species
+    name = 'ions'
+    omn = 1.5417906
+    omt = 2.795488       !scanwith: 0, 3.372865490064424, 3.089312365063648, 2.10342550297613, 2.8381048449799104, 3.306916030771205
+    mass = 1.0
+    temp = 0.64656397
+    dens = 1.0
+    charge = 1
+/
+
+&species
+    name = 'electrons'
+    omn = 1.5417906
+    omt = 5.3871083       !scanwith: 0, 5.231354472072452, 6.393345786542111, 5.971481753926036, 4.16932550998307, 4.898193984928861
+    mass = 0.00027244
+    temp = 1.0
+    dens = 1.0
+    charge = -1
+/
+
+&units
+    lref = 0.51645
+    bref = 2.6172
+    tref = 0.60520329375
+    nref = 1.5256594374999999
+    mref = 1.999007501778479
+/
