@@ -1,0 +1,28 @@
+#!/bin/bash -l
+## LUMI-C (CPU partition) submit script template
+## Submit via: sbatch submit.cmd (parameters below can be overwritten by command line options)
+#SBATCH -t 01:30:00                # wallclock limit
+#SBATCH -N 2                       # total number of nodes, 2 CPUs with 64 rank each
+#SBATCH --ntasks-per-node=128      # 64 per CPU. Additional 2 hyperthreads disabled
+#SBATCH --mem=0                    # Allocate all the memory on each node
+#SBATCH -p standard                   # all options see: scontrol show partition
+#SBATCH -J UQ_GENE                   # Job name
+#SBATCH -o ./%x.%j.out
+#SBATCH -e ./%x.%j.err
+##uncomment to set specific account to charge or define SBATCH_ACCOUNT globally in ~/.bashrc
+#SBATCH -A project_462000451
+
+## set openmp threads
+export OMP_NUM_THREADS=1
+
+#do not use file locking for hdf5
+export HDF5_USE_FILE_LOCKING=FALSE
+
+set -x
+# run GENE
+#srun -l -K -n $SLURM_NTASKS ./gene_lumi_csc
+
+# run scanscript
+./scanscript --np $SLURM_NTASKS --ppn $SLURM_NTASKS_PER_NODE --mps 4 --syscall='srun -l -K -n $SLURM_NTASKS ./gene_lumi_csc'
+
+set +x
