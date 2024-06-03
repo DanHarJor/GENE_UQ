@@ -3,3 +3,4 @@ temp/
 archive/
 saved_results/
 parameters_scanwith
+**__pycache__**
