@@ -39,9 +39,9 @@
     nonlinear = .false.
     calc_dt = .true.
     dt_max = 0.0385
-    timelim = 10000
+    timelim = 8400
     ntimesteps = 10000000
-    simtimelim = 10000
+    simtimelim = 8400
     beta = 0.00054323796
     debye2 = 0.0011889208
     collision_op = 'landau'

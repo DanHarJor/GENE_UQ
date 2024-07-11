@@ -1,19 +1,31 @@
-import os
-#Here is were you specify the UQ configuration
+class Config():
+    def __init__(self):
+        ##Parser
+        #The parsers main function is write_input_file
+        # wite_input_file takes a parameters file from base_params_path and a set of points in the form of a dict {param1:[point1,point2...], param2:[point1,point2...]...} 
+        #  It will then create a parameters file that can scan over all the points.
+        self.base_params_path = "/home/djdaniel/GENE_UQ/parameters_base_uq" 
+        self.remote_save_base_dir=f'/scratch/project_462000451/gene_out/gene_auto/'
+        self.save_dir = "/home/djdaniel/GENE_UQ/temp/"
 
-#DEEPlasma
-# parameters = ['box-kymin', '_grp_species_1-omt', 'species-omn']
-# bounds = [(0.05,1), (10,70), (5,60)]
-# num_samples = 100
-#Parser args
-# base_params_path = os.path.join(os.getcwd(),'parameters_base_dp')
+
+        ## Runner
+        #The Runner is responsible for actually running a parameters file on lumi. Its main function is code_run.
+        # code_run will take the set of points named samples and parse them into a parameters file.
+        #  It then uses ssh to run GENE with this parametres file and a passed sbatch script.
+        self.host = 'lumi3' #needs to be configured in /home/<user>/.ssh/config
+        self.sbatch_base_path = "/home/djdaniel/GENE_UQ/sbatch_base" 
+        # guess_sample_wallseconds = 200 # a guess for the number of seconds it takes to run one sample.
+        self.remote_run_dir = '/project/project_462000451/gene/'
+
+config = Config()
+
+if __name__ == '__main__':
+    config = Config()
+    print(config.save_dir)
 
 
-#UQ
-parameters = ['box-kymin', '_grp_species_0-omt', '_grp_species_1-omt']
-##Sampler args dependant on sampler chosen
-bounds = [(0.1,100.0),(2,3.5), (4,6.75)]
-# num_samples = 5
-##Parser args
-base_params_path = os.path.join(os.getcwd(),'parameters_base_uq')
+    
 
+
+    
