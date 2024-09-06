@@ -1,0 +1,109 @@
+15:58:41,847 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current number of function evaluations 7
+15:58:41,848 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current error: 32.422446802830244
+15:58:41,848 util WARNING :: SpatiallyAdaptiveSingleDimensions2 ## Can only plot 2D results
+15:58:41,849 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Finished refinement
+15:58:41,849 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Refined 2 times
+15:58:42,259 util WARNING :: SpatiallyAdaptiveSingleDimensions2 ## Cannot print combischeme of dimension > 2
+15:58:42,921 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current number of function evaluations 9
+15:58:42,921 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current error: 22.55246817066399
+15:58:42,922 util WARNING :: SpatiallyAdaptiveSingleDimensions2 ## Can only plot 2D results
+15:58:42,922 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Finished refinement
+15:58:42,922 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Refined 2 times
+15:58:43,85 util WARNING :: SpatiallyAdaptiveSingleDimensions2 ## Cannot print combischeme of dimension > 2
+15:58:43,825 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current number of function evaluations 12
+15:58:43,826 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current error: 13.932357258686048
+15:58:43,826 util WARNING :: SpatiallyAdaptiveSingleDimensions2 ## Can only plot 2D results
+15:58:43,826 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Finished refinement
+15:58:43,826 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Refined 2 times
+15:58:44,1 util WARNING :: SpatiallyAdaptiveSingleDimensions2 ## Cannot print combischeme of dimension > 2
+15:58:44,767 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current number of function evaluations 15
+15:58:44,767 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current error: 13.849239402658618
+15:58:44,767 util WARNING :: SpatiallyAdaptiveSingleDimensions2 ## Can only plot 2D results
+15:58:44,768 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Finished refinement
+15:58:44,768 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Refined 2 times
+15:58:44,968 util WARNING :: SpatiallyAdaptiveSingleDimensions2 ## Cannot print combischeme of dimension > 2
+15:58:45,706 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current number of function evaluations 18
+15:58:45,706 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current error: 11.598965979132657
+15:58:45,706 util WARNING :: SpatiallyAdaptiveSingleDimensions2 ## Can only plot 2D results
+15:58:45,707 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Finished refinement
+15:58:45,707 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Refined 4 times
+15:58:45,877 util WARNING :: SpatiallyAdaptiveSingleDimensions2 ## Cannot print combischeme of dimension > 2
+15:58:46,628 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current number of function evaluations 32
+15:58:46,629 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current error: 8.380515342576881
+15:58:46,629 util WARNING :: SpatiallyAdaptiveSingleDimensions2 ## Can only plot 2D results
+15:58:46,629 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Finished refinement
+15:58:46,629 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Refined 2 times
+15:58:46,899 util WARNING :: SpatiallyAdaptiveSingleDimensions2 ## Cannot print combischeme of dimension > 2
+15:58:47,668 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current number of function evaluations 37
+15:58:47,668 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current error: 7.020320281729539
+15:58:47,668 util WARNING :: SpatiallyAdaptiveSingleDimensions2 ## Can only plot 2D results
+15:58:47,669 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Finished refinement
+15:58:47,669 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Refined 2 times
+15:58:47,868 util WARNING :: SpatiallyAdaptiveSingleDimensions2 ## Cannot print combischeme of dimension > 2
+15:58:48,629 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current number of function evaluations 42
+15:58:48,629 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current error: 5.7660479962786395
+15:58:48,629 util WARNING :: SpatiallyAdaptiveSingleDimensions2 ## Can only plot 2D results
+15:58:48,630 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Finished refinement
+15:58:48,630 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Refined 2 times
+15:58:48,804 util WARNING :: SpatiallyAdaptiveSingleDimensions2 ## Cannot print combischeme of dimension > 2
+15:58:49,568 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current number of function evaluations 52
+15:58:49,569 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current error: 5.032663972796612
+15:58:49,569 util WARNING :: SpatiallyAdaptiveSingleDimensions2 ## Can only plot 2D results
+15:58:49,570 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Finished refinement
+15:58:49,570 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Refined 2 times
+15:58:49,783 util WARNING :: SpatiallyAdaptiveSingleDimensions2 ## Cannot print combischeme of dimension > 2
+15:58:50,579 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current number of function evaluations 76
+15:58:50,580 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current error: 3.748526892064571
+15:58:50,580 util WARNING :: SpatiallyAdaptiveSingleDimensions2 ## Can only plot 2D results
+15:58:50,580 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Finished refinement
+15:58:50,580 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Refined 2 times
+15:58:50,785 util WARNING :: SpatiallyAdaptiveSingleDimensions2 ## Cannot print combischeme of dimension > 2
+15:58:51,616 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current number of function evaluations 89
+15:58:51,617 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current error: 3.238506240125166
+15:58:51,617 util WARNING :: SpatiallyAdaptiveSingleDimensions2 ## Can only plot 2D results
+15:58:51,618 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Finished refinement
+15:58:51,618 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Refined 4 times
+15:58:51,838 util WARNING :: SpatiallyAdaptiveSingleDimensions2 ## Cannot print combischeme of dimension > 2
+15:58:52,618 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current number of function evaluations 118
+15:58:52,619 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current error: 2.0675714482105128
+15:58:52,619 util WARNING :: SpatiallyAdaptiveSingleDimensions2 ## Can only plot 2D results
+15:58:52,619 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Finished refinement
+15:58:52,619 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Refined 2 times
+15:58:52,827 util WARNING :: SpatiallyAdaptiveSingleDimensions2 ## Cannot print combischeme of dimension > 2
+15:58:53,799 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current number of function evaluations 128
+15:58:53,800 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current error: 1.711248218555005
+15:58:53,800 util WARNING :: SpatiallyAdaptiveSingleDimensions2 ## Can only plot 2D results
+15:58:53,800 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Finished refinement
+15:58:53,800 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Refined 2 times
+15:58:54,30 util WARNING :: SpatiallyAdaptiveSingleDimensions2 ## Cannot print combischeme of dimension > 2
+15:58:54,825 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current number of function evaluations 138
+15:58:54,826 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current error: 1.3547671602738165
+15:58:54,826 util WARNING :: SpatiallyAdaptiveSingleDimensions2 ## Can only plot 2D results
+15:58:54,826 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Finished refinement
+15:58:54,826 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Refined 2 times
+15:58:55,58 util WARNING :: SpatiallyAdaptiveSingleDimensions2 ## Cannot print combischeme of dimension > 2
+15:58:55,880 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current number of function evaluations 142
+15:58:55,881 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current error: 1.2350137649283228
+15:58:55,881 util WARNING :: SpatiallyAdaptiveSingleDimensions2 ## Can only plot 2D results
+15:58:55,882 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Finished refinement
+15:58:55,882 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Refined 4 times
+15:58:56,331 util WARNING :: SpatiallyAdaptiveSingleDimensions2 ## Cannot print combischeme of dimension > 2
+15:58:57,122 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current number of function evaluations 157
+15:58:57,123 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current error: 0.9533213288912763
+15:58:57,123 util WARNING :: SpatiallyAdaptiveSingleDimensions2 ## Can only plot 2D results
+15:58:57,123 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Finished refinement
+15:58:57,123 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Refined 2 times
+15:58:57,323 util WARNING :: SpatiallyAdaptiveSingleDimensions2 ## Cannot print combischeme of dimension > 2
+15:58:58,458 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current number of function evaluations 178
+15:58:58,459 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current error: 0.8113491438835918
+15:58:58,459 util WARNING :: SpatiallyAdaptiveSingleDimensions2 ## Can only plot 2D results
+15:58:58,459 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Finished refinement
+15:58:58,460 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Refined 2 times
+15:58:58,695 util WARNING :: SpatiallyAdaptiveSingleDimensions2 ## Cannot print combischeme of dimension > 2
+15:58:59,892 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current number of function evaluations 229
+15:58:59,893 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current error: 0.7064114881811632
+15:58:59,893 util WARNING :: SpatiallyAdaptiveSingleDimensions2 ## Can only plot 2D results
+15:58:59,893 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Number of refinements: 40
+15:58:59,893 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Number of distinct points used during the refinement: 229
+15:58:59,893 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Time used adaptive (s): 18.05702760799977
+15:58:59,893 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Final error: 0.7064114881811632
