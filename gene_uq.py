@@ -8,7 +8,7 @@ import pandas as pd
 from config import config
 import os
 
-def mode_transition_test(model, name):
+def mode_transition_test(name, model=None):
     nominal = [2.7954880, 5.3871083, 1.5417906]
     parameters = ['_grp_species_0-omt','_grp_species_1-omt','species-omn']
     remote_save_names = ['modeTrans-highprec-'+p for p in parameters]
