@@ -41,7 +41,7 @@
     nonlinear = .false.
     calc_dt = .true.
     dt_max = 0.0385
-    timelim = 26000
+    timelim = 33200
     ntimesteps = 10000000
     simtimelim = 26000
     beta = 0.00054323796
