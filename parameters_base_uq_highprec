@@ -28,12 +28,12 @@
     diagdir = '/scratch/project_FILL_IN/FILL_UID/AUGUQ/'
     read_checkpoint = .false.
     write_checkpoint = .true.
-    istep_field = 1000
+    istep_field = 2000
     istep_mom = 2000
-    istep_nrg = 10
-    istep_energy = 100
-    istep_vsp = 0
-    istep_schpt = 500
+    istep_nrg = 2000
+    istep_energy = 2000
+    istep_vsp = 2000
+    istep_schpt = 2000
 /
 
 &general

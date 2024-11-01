@@ -5,7 +5,8 @@ from GENE_ML.gene_ml.parsers.GENEparser import GENE_scan_parser
 from GENE_ML.gene_ml.dataset.ScanData import ScanData
 import numpy as np
 import pandas as pd
-from config import config
+from config import Config
+config = Config()
 import os
 
 def mode_transition_test(name, model=None):
@@ -13,10 +14,10 @@ def mode_transition_test(name, model=None):
     parameters = ['_grp_species_0-omt','_grp_species_1-omt','species-omn']
     remote_save_names = ['modeTrans-highprec-'+p for p in parameters]
     # parser
-    parser = GENE_scan_parser(config.save_dir, config.base_params_path)
+    parser = GENE_scan_parser(config)
     GENE_groundTruth = []
     for rms in remote_save_names:
-        GENE_groundTruth.append(ScanData(rms, parser=parser, host=None, remote_path=None,  test_percentage=0))
+        GENE_groundTruth.append(ScanData(rms, parser=parser, config=config, host=None, remote_save_dir=None,  test_percentage=0))
 
     # Putting ground truth in correct format for inference, with other nominal parameters in place -------------   
     nominal_block = np.stack([nominal for i in range(len(GENE_groundTruth[0].df))])
