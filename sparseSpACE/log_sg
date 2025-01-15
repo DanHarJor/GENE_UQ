@@ -1,109 +1,272 @@
-15:58:41,847 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current number of function evaluations 7
-15:58:41,848 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current error: 32.422446802830244
-15:58:41,848 util WARNING :: SpatiallyAdaptiveSingleDimensions2 ## Can only plot 2D results
-15:58:41,849 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Finished refinement
-15:58:41,849 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Refined 2 times
-15:58:42,259 util WARNING :: SpatiallyAdaptiveSingleDimensions2 ## Cannot print combischeme of dimension > 2
-15:58:42,921 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current number of function evaluations 9
-15:58:42,921 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current error: 22.55246817066399
-15:58:42,922 util WARNING :: SpatiallyAdaptiveSingleDimensions2 ## Can only plot 2D results
-15:58:42,922 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Finished refinement
-15:58:42,922 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Refined 2 times
-15:58:43,85 util WARNING :: SpatiallyAdaptiveSingleDimensions2 ## Cannot print combischeme of dimension > 2
-15:58:43,825 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current number of function evaluations 12
-15:58:43,826 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current error: 13.932357258686048
-15:58:43,826 util WARNING :: SpatiallyAdaptiveSingleDimensions2 ## Can only plot 2D results
-15:58:43,826 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Finished refinement
-15:58:43,826 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Refined 2 times
-15:58:44,1 util WARNING :: SpatiallyAdaptiveSingleDimensions2 ## Cannot print combischeme of dimension > 2
-15:58:44,767 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current number of function evaluations 15
-15:58:44,767 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current error: 13.849239402658618
-15:58:44,767 util WARNING :: SpatiallyAdaptiveSingleDimensions2 ## Can only plot 2D results
-15:58:44,768 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Finished refinement
-15:58:44,768 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Refined 2 times
-15:58:44,968 util WARNING :: SpatiallyAdaptiveSingleDimensions2 ## Cannot print combischeme of dimension > 2
-15:58:45,706 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current number of function evaluations 18
-15:58:45,706 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current error: 11.598965979132657
-15:58:45,706 util WARNING :: SpatiallyAdaptiveSingleDimensions2 ## Can only plot 2D results
-15:58:45,707 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Finished refinement
-15:58:45,707 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Refined 4 times
-15:58:45,877 util WARNING :: SpatiallyAdaptiveSingleDimensions2 ## Cannot print combischeme of dimension > 2
-15:58:46,628 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current number of function evaluations 32
-15:58:46,629 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current error: 8.380515342576881
-15:58:46,629 util WARNING :: SpatiallyAdaptiveSingleDimensions2 ## Can only plot 2D results
-15:58:46,629 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Finished refinement
-15:58:46,629 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Refined 2 times
-15:58:46,899 util WARNING :: SpatiallyAdaptiveSingleDimensions2 ## Cannot print combischeme of dimension > 2
-15:58:47,668 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current number of function evaluations 37
-15:58:47,668 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current error: 7.020320281729539
-15:58:47,668 util WARNING :: SpatiallyAdaptiveSingleDimensions2 ## Can only plot 2D results
-15:58:47,669 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Finished refinement
-15:58:47,669 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Refined 2 times
-15:58:47,868 util WARNING :: SpatiallyAdaptiveSingleDimensions2 ## Cannot print combischeme of dimension > 2
-15:58:48,629 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current number of function evaluations 42
-15:58:48,629 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current error: 5.7660479962786395
-15:58:48,629 util WARNING :: SpatiallyAdaptiveSingleDimensions2 ## Can only plot 2D results
-15:58:48,630 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Finished refinement
-15:58:48,630 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Refined 2 times
-15:58:48,804 util WARNING :: SpatiallyAdaptiveSingleDimensions2 ## Cannot print combischeme of dimension > 2
-15:58:49,568 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current number of function evaluations 52
-15:58:49,569 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current error: 5.032663972796612
-15:58:49,569 util WARNING :: SpatiallyAdaptiveSingleDimensions2 ## Can only plot 2D results
-15:58:49,570 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Finished refinement
-15:58:49,570 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Refined 2 times
-15:58:49,783 util WARNING :: SpatiallyAdaptiveSingleDimensions2 ## Cannot print combischeme of dimension > 2
-15:58:50,579 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current number of function evaluations 76
-15:58:50,580 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current error: 3.748526892064571
-15:58:50,580 util WARNING :: SpatiallyAdaptiveSingleDimensions2 ## Can only plot 2D results
-15:58:50,580 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Finished refinement
-15:58:50,580 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Refined 2 times
-15:58:50,785 util WARNING :: SpatiallyAdaptiveSingleDimensions2 ## Cannot print combischeme of dimension > 2
-15:58:51,616 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current number of function evaluations 89
-15:58:51,617 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current error: 3.238506240125166
-15:58:51,617 util WARNING :: SpatiallyAdaptiveSingleDimensions2 ## Can only plot 2D results
-15:58:51,618 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Finished refinement
-15:58:51,618 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Refined 4 times
-15:58:51,838 util WARNING :: SpatiallyAdaptiveSingleDimensions2 ## Cannot print combischeme of dimension > 2
-15:58:52,618 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current number of function evaluations 118
-15:58:52,619 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current error: 2.0675714482105128
-15:58:52,619 util WARNING :: SpatiallyAdaptiveSingleDimensions2 ## Can only plot 2D results
-15:58:52,619 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Finished refinement
-15:58:52,619 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Refined 2 times
-15:58:52,827 util WARNING :: SpatiallyAdaptiveSingleDimensions2 ## Cannot print combischeme of dimension > 2
-15:58:53,799 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current number of function evaluations 128
-15:58:53,800 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current error: 1.711248218555005
-15:58:53,800 util WARNING :: SpatiallyAdaptiveSingleDimensions2 ## Can only plot 2D results
-15:58:53,800 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Finished refinement
-15:58:53,800 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Refined 2 times
-15:58:54,30 util WARNING :: SpatiallyAdaptiveSingleDimensions2 ## Cannot print combischeme of dimension > 2
-15:58:54,825 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current number of function evaluations 138
-15:58:54,826 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current error: 1.3547671602738165
-15:58:54,826 util WARNING :: SpatiallyAdaptiveSingleDimensions2 ## Can only plot 2D results
-15:58:54,826 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Finished refinement
-15:58:54,826 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Refined 2 times
-15:58:55,58 util WARNING :: SpatiallyAdaptiveSingleDimensions2 ## Cannot print combischeme of dimension > 2
-15:58:55,880 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current number of function evaluations 142
-15:58:55,881 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current error: 1.2350137649283228
-15:58:55,881 util WARNING :: SpatiallyAdaptiveSingleDimensions2 ## Can only plot 2D results
-15:58:55,882 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Finished refinement
-15:58:55,882 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Refined 4 times
-15:58:56,331 util WARNING :: SpatiallyAdaptiveSingleDimensions2 ## Cannot print combischeme of dimension > 2
-15:58:57,122 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current number of function evaluations 157
-15:58:57,123 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current error: 0.9533213288912763
-15:58:57,123 util WARNING :: SpatiallyAdaptiveSingleDimensions2 ## Can only plot 2D results
-15:58:57,123 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Finished refinement
-15:58:57,123 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Refined 2 times
-15:58:57,323 util WARNING :: SpatiallyAdaptiveSingleDimensions2 ## Cannot print combischeme of dimension > 2
-15:58:58,458 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current number of function evaluations 178
-15:58:58,459 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current error: 0.8113491438835918
-15:58:58,459 util WARNING :: SpatiallyAdaptiveSingleDimensions2 ## Can only plot 2D results
-15:58:58,459 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Finished refinement
-15:58:58,460 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Refined 2 times
-15:58:58,695 util WARNING :: SpatiallyAdaptiveSingleDimensions2 ## Cannot print combischeme of dimension > 2
-15:58:59,892 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current number of function evaluations 229
-15:58:59,893 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current error: 0.7064114881811632
-15:58:59,893 util WARNING :: SpatiallyAdaptiveSingleDimensions2 ## Can only plot 2D results
-15:58:59,893 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Number of refinements: 40
-15:58:59,893 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Number of distinct points used during the refinement: 229
-15:58:59,893 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Time used adaptive (s): 18.05702760799977
-15:58:59,893 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Final error: 0.7064114881811632
+09:36:54,271 util INFO :: StandardCombi ## Time used (s):0.002884206000089762
+09:36:54,272 util INFO :: StandardCombi ## Number of distinct points used during the refinement (StdCombi): 9
+09:36:54,273 util INFO :: StandardCombi ## Time used (s):0.0009616750003260677
+09:36:54,273 util INFO :: StandardCombi ## Number of distinct points used during the refinement (StdCombi): 9
+09:36:54,275 util INFO :: StandardCombi ## Time used (s):0.0019148450001011952
+09:36:54,276 util INFO :: StandardCombi ## Number of distinct points used during the refinement (StdCombi): 25
+09:36:54,291 util INFO :: StandardCombi ## Time used (s):0.015166491999934806
+09:36:54,291 util INFO :: StandardCombi ## Number of distinct points used during the refinement (StdCombi): 81
+09:37:11,688 util INFO :: SpatiallyAdaptivBase ## Current number of function evaluations 9
+09:37:11,688 util INFO :: SpatiallyAdaptivBase ## Current error: 3.2787460559227943
+09:37:11,689 util INFO :: SpatiallyAdaptivBase ## Finished refinement
+09:37:11,689 util INFO :: SpatiallyAdaptivBase ## Refined 1 times
+09:37:11,695 util INFO :: SpatiallyAdaptivBase ## Current number of function evaluations 13
+09:37:11,695 util INFO :: SpatiallyAdaptivBase ## Current error: 3.4556630452823454
+09:37:11,695 util INFO :: SpatiallyAdaptivBase ## Finished refinement
+09:37:11,695 util INFO :: SpatiallyAdaptivBase ## Refined 2 times
+09:37:11,709 util INFO :: SpatiallyAdaptivBase ## Current number of function evaluations 19
+09:37:11,710 util INFO :: SpatiallyAdaptivBase ## Current error: 3.6524223048678026
+09:37:11,710 util INFO :: SpatiallyAdaptivBase ## Finished refinement
+09:37:11,710 util INFO :: SpatiallyAdaptivBase ## Refined 1 times
+09:37:11,716 util INFO :: SpatiallyAdaptivBase ## Current number of function evaluations 21
+09:37:11,717 util INFO :: SpatiallyAdaptivBase ## Current error: 3.704186977386435
+09:37:11,717 util INFO :: SpatiallyAdaptivBase ## Finished refinement
+09:37:11,717 util INFO :: SpatiallyAdaptivBase ## Refined 4 times
+09:37:11,730 util INFO :: SpatiallyAdaptivBase ## Current number of function evaluations 27
+09:37:11,731 util INFO :: SpatiallyAdaptivBase ## Current error: 3.750599067314881
+09:37:11,731 util INFO :: SpatiallyAdaptivBase ## Finished refinement
+09:37:11,731 util INFO :: SpatiallyAdaptivBase ## Refined 2 times
+09:37:11,750 util INFO :: SpatiallyAdaptivBase ## Current number of function evaluations 32
+09:37:11,751 util INFO :: SpatiallyAdaptivBase ## Current error: 3.772040610637693
+09:37:11,751 util INFO :: SpatiallyAdaptivBase ## Finished refinement
+09:37:11,751 util INFO :: SpatiallyAdaptivBase ## Refined 4 times
+09:37:11,764 util INFO :: SpatiallyAdaptivBase ## Current number of function evaluations 38
+09:37:11,764 util INFO :: SpatiallyAdaptivBase ## Current error: 3.81226330368088
+09:37:11,765 util INFO :: SpatiallyAdaptivBase ## Finished refinement
+09:37:11,765 util INFO :: SpatiallyAdaptivBase ## Refined 2 times
+09:37:11,771 util INFO :: SpatiallyAdaptivBase ## Current number of function evaluations 42
+09:37:11,771 util INFO :: SpatiallyAdaptivBase ## Current error: 3.814727818409132
+09:37:11,772 util INFO :: SpatiallyAdaptivBase ## Finished refinement
+09:37:11,772 util INFO :: SpatiallyAdaptivBase ## Refined 2 times
+09:37:11,791 util INFO :: SpatiallyAdaptivBase ## Current number of function evaluations 47
+09:37:11,791 util INFO :: SpatiallyAdaptivBase ## Current error: 3.8230407923819545
+09:37:11,791 util INFO :: SpatiallyAdaptivBase ## Finished refinement
+09:37:11,791 util INFO :: SpatiallyAdaptivBase ## Refined 2 times
+09:37:11,810 util INFO :: SpatiallyAdaptivBase ## Current number of function evaluations 50
+09:37:11,810 util INFO :: SpatiallyAdaptivBase ## Current error: 3.848656359317056
+09:37:11,811 util INFO :: SpatiallyAdaptivBase ## Finished refinement
+09:37:11,811 util INFO :: SpatiallyAdaptivBase ## Refined 2 times
+09:37:11,817 util INFO :: SpatiallyAdaptivBase ## Current number of function evaluations 52
+09:37:11,817 util INFO :: SpatiallyAdaptivBase ## Current error: 3.8519574794660003
+09:37:11,817 util INFO :: SpatiallyAdaptivBase ## Number of refinements: 22
+09:37:11,818 util INFO :: SpatiallyAdaptivBase ## Number of distinct points used during the refinement: 52
+09:37:11,818 util INFO :: SpatiallyAdaptivBase ## Time used adaptive (s): 0.1342694710001524
+09:37:11,818 util INFO :: SpatiallyAdaptivBase ## Final error: 3.8519574794660003
+09:37:26,55 util INFO :: SpatiallyAdaptivBase ## Current number of function evaluations 113
+09:37:26,93 util INFO :: SpatiallyAdaptivBase ## Current error: 0.009869635675419902
+09:37:26,94 util INFO :: SpatiallyAdaptivBase ## Number of refinements: 0
+09:37:26,94 util INFO :: SpatiallyAdaptivBase ## Number of distinct points used during the refinement: 113
+09:37:26,94 util INFO :: SpatiallyAdaptivBase ## Time used adaptive (s): 0.08294046399987565
+09:37:26,94 util INFO :: SpatiallyAdaptivBase ## Final error: 0.009869635675419902
+09:37:36,988 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current number of function evaluations 113
+09:37:36,989 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current error: 0.004672998060561018
+09:37:36,990 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Number of refinements: 0
+09:37:36,990 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Number of distinct points used during the refinement: 113
+09:37:36,990 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Time used adaptive (s): 0.07857430699959878
+09:37:36,990 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Final error: 0.004672998060561018
+10:27:21,87 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current number of function evaluations 113
+10:27:21,87 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current error: 0.004672998060561018
+10:27:21,88 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Number of refinements: 0
+10:27:21,88 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Number of distinct points used during the refinement: 113
+10:27:21,88 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Time used adaptive (s): 0.06240609799988306
+10:27:21,88 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Final error: 0.004672998060561018
+10:46:56,800 util INFO :: StandardCombi ## Time used (s):0.000937762000830844
+10:46:56,800 util INFO :: StandardCombi ## Number of distinct points used during the refinement (StdCombi): 9
+10:46:56,801 util INFO :: StandardCombi ## Time used (s):0.0007221739997476107
+10:46:56,801 util INFO :: StandardCombi ## Number of distinct points used during the refinement (StdCombi): 9
+10:46:56,803 util INFO :: StandardCombi ## Time used (s):0.0015875569997660932
+10:46:56,803 util INFO :: StandardCombi ## Number of distinct points used during the refinement (StdCombi): 25
+10:46:56,809 util INFO :: StandardCombi ## Time used (s):0.005538852000427141
+10:46:56,809 util INFO :: StandardCombi ## Number of distinct points used during the refinement (StdCombi): 81
+10:47:05,52 util INFO :: SpatiallyAdaptivBase ## Current number of function evaluations 9
+10:47:05,52 util INFO :: SpatiallyAdaptivBase ## Current error: 3.2787460559227943
+10:47:05,52 util INFO :: SpatiallyAdaptivBase ## Finished refinement
+10:47:05,52 util INFO :: SpatiallyAdaptivBase ## Refined 1 times
+10:47:05,58 util INFO :: SpatiallyAdaptivBase ## Current number of function evaluations 13
+10:47:05,58 util INFO :: SpatiallyAdaptivBase ## Current error: 3.4556630452823454
+10:47:05,59 util INFO :: SpatiallyAdaptivBase ## Finished refinement
+10:47:05,59 util INFO :: SpatiallyAdaptivBase ## Refined 2 times
+10:47:05,70 util INFO :: SpatiallyAdaptivBase ## Current number of function evaluations 19
+10:47:05,71 util INFO :: SpatiallyAdaptivBase ## Current error: 3.6524223048678026
+10:47:05,71 util INFO :: SpatiallyAdaptivBase ## Finished refinement
+10:47:05,71 util INFO :: SpatiallyAdaptivBase ## Refined 1 times
+10:47:05,77 util INFO :: SpatiallyAdaptivBase ## Current number of function evaluations 21
+10:47:05,77 util INFO :: SpatiallyAdaptivBase ## Current error: 3.704186977386435
+10:47:05,77 util INFO :: SpatiallyAdaptivBase ## Finished refinement
+10:47:05,77 util INFO :: SpatiallyAdaptivBase ## Refined 4 times
+10:47:05,89 util INFO :: SpatiallyAdaptivBase ## Current number of function evaluations 27
+10:47:05,90 util INFO :: SpatiallyAdaptivBase ## Current error: 3.750599067314881
+10:47:05,90 util INFO :: SpatiallyAdaptivBase ## Finished refinement
+10:47:05,90 util INFO :: SpatiallyAdaptivBase ## Refined 2 times
+10:47:05,106 util INFO :: SpatiallyAdaptivBase ## Current number of function evaluations 32
+10:47:05,107 util INFO :: SpatiallyAdaptivBase ## Current error: 3.772040610637693
+10:47:05,107 util INFO :: SpatiallyAdaptivBase ## Finished refinement
+10:47:05,107 util INFO :: SpatiallyAdaptivBase ## Refined 4 times
+10:47:05,118 util INFO :: SpatiallyAdaptivBase ## Current number of function evaluations 38
+10:47:05,119 util INFO :: SpatiallyAdaptivBase ## Current error: 3.81226330368088
+10:47:05,119 util INFO :: SpatiallyAdaptivBase ## Finished refinement
+10:47:05,119 util INFO :: SpatiallyAdaptivBase ## Refined 2 times
+10:47:05,125 util INFO :: SpatiallyAdaptivBase ## Current number of function evaluations 42
+10:47:05,125 util INFO :: SpatiallyAdaptivBase ## Current error: 3.814727818409132
+10:47:05,125 util INFO :: SpatiallyAdaptivBase ## Finished refinement
+10:47:05,125 util INFO :: SpatiallyAdaptivBase ## Refined 2 times
+10:47:05,142 util INFO :: SpatiallyAdaptivBase ## Current number of function evaluations 47
+10:47:05,142 util INFO :: SpatiallyAdaptivBase ## Current error: 3.8230407923819545
+10:47:05,143 util INFO :: SpatiallyAdaptivBase ## Finished refinement
+10:47:05,143 util INFO :: SpatiallyAdaptivBase ## Refined 2 times
+10:47:05,159 util INFO :: SpatiallyAdaptivBase ## Current number of function evaluations 50
+10:47:05,159 util INFO :: SpatiallyAdaptivBase ## Current error: 3.848656359317056
+10:47:05,159 util INFO :: SpatiallyAdaptivBase ## Finished refinement
+10:47:05,159 util INFO :: SpatiallyAdaptivBase ## Refined 2 times
+10:47:05,165 util INFO :: SpatiallyAdaptivBase ## Current number of function evaluations 52
+10:47:05,165 util INFO :: SpatiallyAdaptivBase ## Current error: 3.8519574794660003
+10:47:05,165 util INFO :: SpatiallyAdaptivBase ## Number of refinements: 22
+10:47:05,165 util INFO :: SpatiallyAdaptivBase ## Number of distinct points used during the refinement: 52
+10:47:05,165 util INFO :: SpatiallyAdaptivBase ## Time used adaptive (s): 0.11719620499934535
+10:47:05,165 util INFO :: SpatiallyAdaptivBase ## Final error: 3.8519574794660003
+10:47:08,87 util INFO :: SpatiallyAdaptivBase ## Current number of function evaluations 113
+10:47:08,123 util INFO :: SpatiallyAdaptivBase ## Current error: 0.009869635675419902
+10:47:08,124 util INFO :: SpatiallyAdaptivBase ## Number of refinements: 0
+10:47:08,124 util INFO :: SpatiallyAdaptivBase ## Number of distinct points used during the refinement: 113
+10:47:08,124 util INFO :: SpatiallyAdaptivBase ## Time used adaptive (s): 0.06551101100012602
+10:47:08,124 util INFO :: SpatiallyAdaptivBase ## Final error: 0.009869635675419902
+10:47:10,705 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current number of function evaluations 113
+10:47:10,706 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current error: 0.004672998060561018
+10:47:10,707 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Number of refinements: 0
+10:47:10,707 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Number of distinct points used during the refinement: 113
+10:47:10,707 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Time used adaptive (s): 0.05971942299947841
+10:47:10,707 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Final error: 0.004672998060561018
+10:56:05,519 util INFO :: StandardCombi ## Time used (s):0.0011288220011920203
+10:56:05,519 util INFO :: StandardCombi ## Number of distinct points used during the refinement (StdCombi): 9
+10:56:05,520 util INFO :: StandardCombi ## Time used (s):0.0008121039991237922
+10:56:05,520 util INFO :: StandardCombi ## Number of distinct points used during the refinement (StdCombi): 9
+10:56:05,522 util INFO :: StandardCombi ## Time used (s):0.0017130390006059315
+10:56:05,522 util INFO :: StandardCombi ## Number of distinct points used during the refinement (StdCombi): 25
+10:56:05,529 util INFO :: StandardCombi ## Time used (s):0.006813040999986697
+10:56:05,529 util INFO :: StandardCombi ## Number of distinct points used during the refinement (StdCombi): 81
+11:05:56,904 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current number of function evaluations 113
+11:05:56,905 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current error: 0.004672998060561018
+11:05:56,905 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Number of refinements: 0
+11:05:56,905 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Number of distinct points used during the refinement: 113
+11:05:56,905 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Time used adaptive (s): 0.0596408679994056
+11:05:56,905 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Final error: 0.004672998060561018
+11:07:45,638 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current number of function evaluations 113
+11:07:45,638 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current error: 0.004672998060561018
+11:07:45,639 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Number of refinements: 0
+11:07:45,639 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Number of distinct points used during the refinement: 113
+11:07:45,639 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Time used adaptive (s): 0.058096746000956045
+11:07:45,639 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Final error: 0.004672998060561018
+11:13:41,717 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current number of function evaluations 113
+11:13:41,717 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current error: 0.004672998060561018
+11:13:41,718 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Number of refinements: 0
+11:13:41,718 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Number of distinct points used during the refinement: 113
+11:13:41,718 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Time used adaptive (s): 0.06327803400017729
+11:13:41,718 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Final error: 0.004672998060561018
+11:14:15,647 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current number of function evaluations 113
+11:14:15,648 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current error: 0.004672998060561018
+11:14:15,648 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Number of refinements: 0
+11:14:15,649 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Number of distinct points used during the refinement: 113
+11:14:15,649 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Time used adaptive (s): 0.0681344580007135
+11:14:15,649 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Final error: 0.004672998060561018
+11:14:24,348 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current number of function evaluations 113
+11:14:24,349 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current error: 0.004672998060561018
+11:14:24,350 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Number of refinements: 0
+11:14:24,350 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Number of distinct points used during the refinement: 113
+11:14:24,350 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Time used adaptive (s): 0.15916875000039
+11:14:24,351 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Final error: 0.004672998060561018
+11:15:44,932 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current number of function evaluations 113
+11:15:44,932 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current error: 0.004672998060561018
+11:15:44,933 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Number of refinements: 0
+11:15:44,933 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Number of distinct points used during the refinement: 113
+11:15:44,933 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Time used adaptive (s): 0.05779126599918527
+11:15:44,933 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Final error: 0.004672998060561018
+11:16:56,703 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current number of function evaluations 113
+11:16:56,703 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current error: 0.004672998060561018
+11:16:56,703 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Number of refinements: 0
+11:16:56,704 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Number of distinct points used during the refinement: 113
+11:16:56,704 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Time used adaptive (s): 0.059636341999066644
+11:16:56,704 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Final error: 0.004672998060561018
+11:18:34,341 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current number of function evaluations 113
+11:18:34,341 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current error: 0.004672998060561018
+11:18:34,342 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Number of refinements: 0
+11:18:34,342 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Number of distinct points used during the refinement: 113
+11:18:34,342 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Time used adaptive (s): 0.05975076899994747
+11:18:34,342 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Final error: 0.004672998060561018
+11:19:38,255 util INFO :: StandardCombi ## Time used (s):0.0009317470012319973
+11:19:38,256 util INFO :: StandardCombi ## Number of distinct points used during the refinement (StdCombi): 9
+11:19:38,257 util INFO :: StandardCombi ## Time used (s):0.0008096440014924156
+11:19:38,257 util INFO :: StandardCombi ## Number of distinct points used during the refinement (StdCombi): 9
+11:19:38,259 util INFO :: StandardCombi ## Time used (s):0.0015990020001481753
+11:19:38,259 util INFO :: StandardCombi ## Number of distinct points used during the refinement (StdCombi): 25
+11:19:38,264 util INFO :: StandardCombi ## Time used (s):0.0051059289999102475
+11:19:38,264 util INFO :: StandardCombi ## Number of distinct points used during the refinement (StdCombi): 81
+11:20:01,898 util INFO :: SpatiallyAdaptivBase ## Current number of function evaluations 9
+11:20:01,898 util INFO :: SpatiallyAdaptivBase ## Current error: 3.2787460559227943
+11:20:01,898 util INFO :: SpatiallyAdaptivBase ## Finished refinement
+11:20:01,898 util INFO :: SpatiallyAdaptivBase ## Refined 1 times
+11:20:01,904 util INFO :: SpatiallyAdaptivBase ## Current number of function evaluations 13
+11:20:01,905 util INFO :: SpatiallyAdaptivBase ## Current error: 3.4556630452823454
+11:20:01,905 util INFO :: SpatiallyAdaptivBase ## Finished refinement
+11:20:01,905 util INFO :: SpatiallyAdaptivBase ## Refined 2 times
+11:20:01,917 util INFO :: SpatiallyAdaptivBase ## Current number of function evaluations 19
+11:20:01,918 util INFO :: SpatiallyAdaptivBase ## Current error: 3.6524223048678026
+11:20:01,918 util INFO :: SpatiallyAdaptivBase ## Finished refinement
+11:20:01,918 util INFO :: SpatiallyAdaptivBase ## Refined 1 times
+11:20:01,924 util INFO :: SpatiallyAdaptivBase ## Current number of function evaluations 21
+11:20:01,924 util INFO :: SpatiallyAdaptivBase ## Current error: 3.704186977386435
+11:20:01,925 util INFO :: SpatiallyAdaptivBase ## Finished refinement
+11:20:01,925 util INFO :: SpatiallyAdaptivBase ## Refined 4 times
+11:20:01,936 util INFO :: SpatiallyAdaptivBase ## Current number of function evaluations 27
+11:20:01,937 util INFO :: SpatiallyAdaptivBase ## Current error: 3.750599067314881
+11:20:01,937 util INFO :: SpatiallyAdaptivBase ## Finished refinement
+11:20:01,937 util INFO :: SpatiallyAdaptivBase ## Refined 2 times
+11:20:01,954 util INFO :: SpatiallyAdaptivBase ## Current number of function evaluations 32
+11:20:01,955 util INFO :: SpatiallyAdaptivBase ## Current error: 3.772040610637693
+11:20:01,955 util INFO :: SpatiallyAdaptivBase ## Finished refinement
+11:20:01,955 util INFO :: SpatiallyAdaptivBase ## Refined 4 times
+11:20:01,967 util INFO :: SpatiallyAdaptivBase ## Current number of function evaluations 38
+11:20:01,967 util INFO :: SpatiallyAdaptivBase ## Current error: 3.81226330368088
+11:20:01,968 util INFO :: SpatiallyAdaptivBase ## Finished refinement
+11:20:01,968 util INFO :: SpatiallyAdaptivBase ## Refined 2 times
+11:20:01,974 util INFO :: SpatiallyAdaptivBase ## Current number of function evaluations 42
+11:20:01,974 util INFO :: SpatiallyAdaptivBase ## Current error: 3.814727818409132
+11:20:01,975 util INFO :: SpatiallyAdaptivBase ## Finished refinement
+11:20:01,975 util INFO :: SpatiallyAdaptivBase ## Refined 2 times
+11:20:01,992 util INFO :: SpatiallyAdaptivBase ## Current number of function evaluations 47
+11:20:01,992 util INFO :: SpatiallyAdaptivBase ## Current error: 3.8230407923819545
+11:20:01,993 util INFO :: SpatiallyAdaptivBase ## Finished refinement
+11:20:01,993 util INFO :: SpatiallyAdaptivBase ## Refined 2 times
+11:20:02,10 util INFO :: SpatiallyAdaptivBase ## Current number of function evaluations 50
+11:20:02,10 util INFO :: SpatiallyAdaptivBase ## Current error: 3.848656359317056
+11:20:02,11 util INFO :: SpatiallyAdaptivBase ## Finished refinement
+11:20:02,11 util INFO :: SpatiallyAdaptivBase ## Refined 2 times
+11:20:02,16 util INFO :: SpatiallyAdaptivBase ## Current number of function evaluations 52
+11:20:02,17 util INFO :: SpatiallyAdaptivBase ## Current error: 3.8519574794660003
+11:20:02,17 util INFO :: SpatiallyAdaptivBase ## Number of refinements: 22
+11:20:02,17 util INFO :: SpatiallyAdaptivBase ## Number of distinct points used during the refinement: 52
+11:20:02,17 util INFO :: SpatiallyAdaptivBase ## Time used adaptive (s): 0.12348528599977726
+11:20:02,17 util INFO :: SpatiallyAdaptivBase ## Final error: 3.8519574794660003
+11:20:05,796 util INFO :: SpatiallyAdaptivBase ## Current number of function evaluations 113
+11:20:05,849 util INFO :: SpatiallyAdaptivBase ## Current error: 0.009869635675419902
+11:20:05,850 util INFO :: SpatiallyAdaptivBase ## Number of refinements: 0
+11:20:05,850 util INFO :: SpatiallyAdaptivBase ## Number of distinct points used during the refinement: 113
+11:20:05,850 util INFO :: SpatiallyAdaptivBase ## Time used adaptive (s): 0.10023019400068733
+11:20:05,850 util INFO :: SpatiallyAdaptivBase ## Final error: 0.009869635675419902
+11:20:09,705 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current number of function evaluations 113
+11:20:09,706 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current error: 0.004672998060561018
+11:20:09,706 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Number of refinements: 0
+11:20:09,707 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Number of distinct points used during the refinement: 113
+11:20:09,707 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Time used adaptive (s): 0.061927909999212716
+11:20:09,707 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Final error: 0.004672998060561018
+11:21:46,92 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current number of function evaluations 113
+11:21:46,92 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current error: 0.004672998060561018
+11:21:46,93 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Number of refinements: 0
+11:21:46,93 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Number of distinct points used during the refinement: 113
+11:21:46,93 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Time used adaptive (s): 0.06817004199911025
+11:21:46,93 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Final error: 0.004672998060561018
+11:30:24,907 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current number of function evaluations 577
+11:30:24,909 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Current error: 0.0003397480185512239
+11:30:24,924 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Number of refinements: 0
+11:30:24,924 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Number of distinct points used during the refinement: 577
+11:30:24,924 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Time used adaptive (s): 0.8133950680003181
+11:30:24,924 util INFO :: SpatiallyAdaptiveSingleDimensions2 ## Final error: 0.0003397480185512239
