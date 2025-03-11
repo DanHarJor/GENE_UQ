@@ -137,7 +137,7 @@ for refnum in range(20):
     print("Error over all = %s" % errorVector.sum())
     indicator = PredictiveRefinementIndicator(grid,dataSet,errorVector,1)
     decorator.free_refine(HashGridStorage,indicator)
-
+    
     print("Refinement step %d, new grid size: %d" % (refnum+1, HashGridStorage.getSize()))
 
     
