@@ -5,3 +5,4 @@ saved_results/
 parameters_scanwith
 **__pycache__**
 *log*
+*.png
